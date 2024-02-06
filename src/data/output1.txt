@@ -1,0 +1,88 @@
+A:___________
+Health: 10
+Strength: 2
+Attack: 3
+
+B:___________
+Health: 12
+Strength: 3
+Attack: 4
+
+Round#1 Summary:
+A broke the defense and did 3 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 5
+Health: 10
+Strength: 2
+Attack: 3
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 4
+Health: 9
+Strength: 3
+Attack: 4
+----------------------------------------
+Round#2 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 1
+Health: 9
+Strength: 3
+Attack: 4
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 4
+Health: 10
+Strength: 2
+Attack: 3
+----------------------------------------
+Round#3 Summary:
+A broke the defense and did 6 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 4
+Health: 10
+Strength: 2
+Attack: 3
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 2
+Health: 3
+Strength: 3
+Attack: 4
+----------------------------------------
+Round#4 Summary:
+B broke the defense and did 14 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 5
+Health: 3
+Strength: 3
+Attack: 4
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 3
+Health: 0
+Strength: 2
+Attack: 3
+----------------------------------------
+Result: 
+B is the winner!

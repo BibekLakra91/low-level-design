@@ -1,0 +1,392 @@
+A:___________
+Health: 50
+Strength: 5
+Attack: 10
+
+B:___________
+Health: 100
+Strength: 10
+Attack: 5
+
+Round#1 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 3
+Health: 50
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 6
+Health: 100
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#2 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 6
+Health: 100
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 6
+Health: 50
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#3 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 1
+Health: 50
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 2
+Health: 100
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#4 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 4
+Health: 100
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 5
+Health: 50
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#5 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 6
+Health: 50
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 6
+Health: 100
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#6 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 1
+Health: 100
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 5
+Health: 50
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#7 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 2
+Health: 50
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 6
+Health: 100
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#8 Summary:
+B broke the defense and did 5 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 4
+Health: 100
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 3
+Health: 45
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#9 Summary:
+A broke the defense and did 30 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 4
+Health: 45
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 1
+Health: 70
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#10 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 1
+Health: 70
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 3
+Health: 45
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#11 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 5
+Health: 45
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 5
+Health: 70
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#12 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 2
+Health: 70
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 3
+Health: 45
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#13 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 1
+Health: 45
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 1
+Health: 70
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#14 Summary:
+B broke the defense and did 25 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 6
+Health: 70
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 1
+Health: 20
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#15 Summary:
+A broke the defense and did 30 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 5
+Health: 20
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 2
+Health: 40
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#16 Summary:
+A defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 1
+Health: 40
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 6
+Health: 20
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#17 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 3
+Health: 20
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 6
+Health: 40
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#18 Summary:
+B broke the defense and did 5 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 5
+Health: 40
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 4
+Health: 15
+Strength: 5
+Attack: 10
+----------------------------------------
+Round#19 Summary:
+B defended the attack.
+-----------------------
+Attacker Details
+-----------------------
+Name: A
+Roll: 3
+Health: 15
+Strength: 5
+Attack: 10
+-----------------------
+Defender Details
+-----------------------
+Name: B
+Roll: 4
+Health: 40
+Strength: 10
+Attack: 5
+----------------------------------------
+Round#20 Summary:
+B broke the defense and did 20 damage.
+-----------------------
+Attacker Details
+-----------------------
+Name: B
+Roll: 5
+Health: 40
+Strength: 10
+Attack: 5
+-----------------------
+Defender Details
+-----------------------
+Name: A
+Roll: 1
+Health: 0
+Strength: 5
+Attack: 10
+----------------------------------------
+Result: 
+B is the winner!
